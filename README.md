@@ -4,7 +4,7 @@ A simple Pac-Man game developed in Java as a practice project.
 
 ## 🎮 Game Preview
 
-![Pac-Man Game](images/game.png)
+![Pac-Man Game](game.png)
 
 ## Technologies
 
